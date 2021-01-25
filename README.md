@@ -1,2 +1,5 @@
-# course-node-typescript-tdd-cleanArchitecture
-Curso -> https://www.udemy.com/course/tdd-com-mango/
+# NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
+
+* [Sobre o estudo deste projeto](https://www.udemy.com/course/tdd-com-mango/)
+* [Instrutor: Rodrigo Manguinho](https://github.com/rmanguinho)
+
