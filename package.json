@@ -1,0 +1,20 @@
+{
+  "name": "course-node-typescript-tdd-cleanArchitecture",
+  "version": "1.0.0",
+  "description": "* [Sobre o estudo deste projeto](https://www.udemy.com/course/tdd-com-mango/) * [Instrutor: Rodrigo Manguinho](https://github.com/rmanguinho)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnthms/course-node-typescript-tdd-cleanArchitecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnthms/course-node-typescript-tdd-cleanArchitecture/issues"
+  },
+  "homepage": "https://github.com/jnthms/course-node-typescript-tdd-cleanArchitecture#readme"
+}
