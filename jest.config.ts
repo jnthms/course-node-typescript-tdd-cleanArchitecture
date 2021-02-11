@@ -11,7 +11,9 @@ export default {
   testEnvironment: 'node',
 
   // A map from regular expressions to paths to transformers
-  transform: { '.+\\.ts$': 'ts-jest' },
+  transform: {
+    '.+\\.ts$': 'ts-jest'
+  },
 
   // Indicates which provider should be used to instrument code for coverage
   coverageProvider: 'v8',
