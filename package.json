@@ -4,7 +4,8 @@
   "description": "* [Sobre o estudo deste projeto](https://www.udemy.com/course/tdd-com-mango/) * [Instrutor: Rodrigo Manguinho](https://github.com/rmanguinho)",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged" : "jest"
   },
   "repository": {
     "type": "git",
